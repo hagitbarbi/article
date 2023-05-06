@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const API_KEY = 'UOJEZZUM-D3XDGEQS33KW';
+const API_KEY = 'VU0SACNDUU6QFPMGP8E5U';
 const text ="Write an article about the benefits of yoga";
 
 axios.post('https://api.rytr.me/v1', {

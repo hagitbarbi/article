@@ -3,7 +3,7 @@
 const axios = require('axios')
 
 // API key
-const API_KEY = '<YOUR_API_KEY>' // Get your API key here: https://app.rytr.me/account/api-access
+const API_KEY = 'VU0SACNDUU6QFPMGP8E5U' // Get your API key here: https://app.rytr.me/account/api-access
 
 // API URL
 const API_URL = 'https://api.rytr.me/v1'

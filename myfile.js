@@ -21,7 +21,7 @@
 
 // Set up the API endpoint and headers
 const API_ENDPOINT = 'https://api.rytr.me/v1/generate';
-const API_KEY = 'UOJEZZUM-D3XDGEQS33KW';
+const API_KEY = 'VU0SACNDUU6QFPMGP8E5U';
 const headers = {
     'Authorization': `Bearer ${API_KEY}`,
     'Content-Type': 'application/json'
